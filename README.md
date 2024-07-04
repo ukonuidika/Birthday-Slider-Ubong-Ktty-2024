@@ -3,7 +3,7 @@
 ## Description:
 This is a Birthday slider I Built for my childhood friend, Ubong Wilson Nkutt. To celebrate him on this Auspiciou day which happens to be his Birthday. I wish him more fruitful years ahead as he continues to age gracefully in good health Amen.
 
-## Built With
+## Built With:
 - [HTML](https://html.com)
 - [CSS](https://html.com)
 - [JavaScript](javascript.com)  
