@@ -1,1 +1,1 @@
-# Birthday-Slider-Ubong-Ktty-2024
+# Birthday-Slider-Ubong-Kutty-2024
